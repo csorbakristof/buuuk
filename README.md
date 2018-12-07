@@ -1,2 +1,8 @@
-# Initial page
+---
+description: Az első fejezet...
+---
+
+# Kezdőlap
+
+Ihol, ni!
 
